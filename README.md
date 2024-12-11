@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GoNyang/CAU-AID-Class.git
+   git clone https://github.com/Gonyang/CAU-AID-Class.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -64,4 +64,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-Developed by [kimkyeonghyun](#).
+Developed by [Gonyang](#).
